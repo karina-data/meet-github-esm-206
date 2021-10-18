@@ -1,5 +1,7 @@
 # ESM 206 Lab 4: Meet GitHub
 
+# Karina Johnston
+
 ### Objectives:
 
 - Learn to fork & clone a repo to work with it locally in RStudio, make edits, & push back
@@ -12,5 +14,3 @@
 
 ----------
 **Disclaimer:** Only prepared for ESM 206 Git/GitHub & RStudio practice. That's why it's a weird hodgepodge of things. 
-
-
