@@ -55,6 +55,13 @@ This is how to add a picture `![]()`
 
 We'll also learn about `knitr::include_graphics()`
 
+##### Add a few fun facts:
+- they can rotate their hind feet 180 degrees
+- they're not endangered, but are elusive
+- closely related to raccoon 
+- they are nocturnal
+- excellent climbers capable of ascending vertical walls, trees, rocky cliffs and even cacti
+
 ###
 
 ----------
